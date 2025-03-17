@@ -15,11 +15,11 @@ class Exerc02{
       }
 
       if (X >= 0) {
-        System.err.println("Numero positivo");
+        System.out.println("Numero positivo");
         return;
       }
 
-      System.err.println("Numero negativo");
+      System.out.println("Numero negativo");
       scanner.close();
   }
 }
