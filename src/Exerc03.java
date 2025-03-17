@@ -11,9 +11,14 @@ class Exerc03 {
       System.err.println("Digite o segundo numero: ");
       int y = scanner.nextInt();
 
+      int resultado;
       if (x == y) {
-        System.out.printf("Soma: %d", x + y);
+        resultado = x + y;
+      } else {
+        resultado = x * y;
       }
+
+      System.out.printf("Resultado: %d", resultado);
 
       scanner.close();
   }
