@@ -10,4 +10,3 @@ Criado com fins de estudos e prática
 2. **Ambiente de Desenvolvimento**: Use uma IDE como IntelliJ IDEA, Eclipse ou VS Code, ou um editor de texto simples com o terminal.
 
 3. **Noções Básicas de Java**: Familiaridade com sintaxe Java, variáveis, operadores e estruturas de controle (if/else, loops).
-
